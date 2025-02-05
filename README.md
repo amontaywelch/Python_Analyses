@@ -13,6 +13,7 @@ Welcome to the Python section of my data analysis portfolio! In this repo you wi
 - Social Media Ad Marketing Analysis
   - **Description**: In this project, synthetic social media engagement data was generated in Python to simulate data at a company such as Meta, X(Formerly Twitter) and Instagram. Metrics analyzed here include average likes per post, most popular days of the week and most popular hours of the day.
   - **Skills Used**: Data Cleaning/Standardization, Data Transformation, Statistical Analysis, Data Visualization
+  - [To view the Power BI dashboard created, click here](https://github.com/amontaywelch/Python_Analyses/blob/main/social_media_engagement_report.pbix)
  
 - Patient Clinical Info Analysis
   - **Description**: In this project, synthetic patient information is obtained to simulate the environment and data used as a healthcare data analyst. Key focuses in this project include length of stay, distribution of age groups, and billing information.
