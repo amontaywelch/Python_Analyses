@@ -1,5 +1,5 @@
 # Python_Analyses
-Welcome to the Python section of my data analysis portfolio! In this repo you will find projects that showcase the statistical analysis and reporting skills that I have picked up since starting my Python journey in late 2023. These are part of my personal projects collection, which are designated to show my technical abilities over anything. I have a repository that houses personal SQL projects [which can be viewed here.](SQL_Projects) 
+Welcome to the Python section of my data analysis portfolio! In this repo you will find projects that showcase the statistical analysis and reporting skills that I have picked up since starting my Python journey in late 2023. These are part of my personal projects collection, which are designated to show my technical abilities over anything. I have a repository that houses personal SQL projects [which can be viewed here.](https://github.com/amontaywelch/SQL_Projects)
 
 [To view my professional portfolio, click here](https://amontaywelch.carrd.co/#)
 
